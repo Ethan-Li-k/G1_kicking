@@ -2,6 +2,10 @@
 
 Unitree G1 humanoid kick skill training using Adversarial Motion Priors (AMP) on IsaacLab.
 
+
+https://github.com/user-attachments/assets/53555206-3752-42f9-ba94-2ee34a956cf5
+
+
 ## Prerequisites
 
 - **NVIDIA Isaac Sim** (2023.1.1+)
