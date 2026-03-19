@@ -1,0 +1,13 @@
+# g1-kick-skill-amp: kick-only motion list (one path per line; # = comment)
+# Prefer: cf_shoot / wo_cf_shoot
+
+
+# --- cf / wo_cf shoot (kick-to-goal) ---
+cf_shoot_10_01.npz
+cf_shoot_10_02.npz
+cf_shoot_10_03.npz
+cf_shoot_10_05.npz
+wo_cf_shoot_74_03.npz
+wo_cf_shoot_74_04.npz
+wo_cf_shoot_74_05.npz
+wo_cf_shoot_74_06.npz
